@@ -1,6 +1,6 @@
 bismillah resolusi part 1
--belajar operasionla github dan git
 -belajar react untuk project gamaforce
 -mengerjakan issue gcs webview
 -menyelesaikan tampilan frontend
 -belajar backend
+-belajar arsitektur mvc
